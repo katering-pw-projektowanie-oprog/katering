@@ -1,6 +1,6 @@
 # katering
 
 ## Ustalenia
-- \2. zajęcia
+- &#8291;2. zajęcia
   - Frontend powstanie w React, a backend w Javie.
-  - \1. iteracja może trwać maksymalnie 6 tygodni. Ostateczny koniec: 29.12.
+  - &#8291;1. iteracja może trwać maksymalnie 6 tygodni. Ostateczny koniec: 29.12.
